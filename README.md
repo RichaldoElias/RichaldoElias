@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Richaldo Elias
-- 👀 I’m interested in Software Development with a focus on Data Engineering and Data Science
+- 👀 I’m not a robot.
 
 <!---
 Richaldious/Richaldious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
